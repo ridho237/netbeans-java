@@ -12,7 +12,7 @@ Ini adalah repository untuk **Tugas Rekayasa Perangkat Lunak 2**. Proyek ini dik
 Branch ini memiliki 3 Branch dengan 1 Branch Utama
 Berikut struktur Repository ini (agar tidak tersesat 🤗):
 
-1. Branch => **Program** (Kumpulan Project Neatbeans)
+1. Branch => **Program** (Kumpulan Project Netbeans)
 2. Branch => **Doc** (Kumpulan ACT dan LA)
 
 ## 💻 Teknologi yang Digunakan
