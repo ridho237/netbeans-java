@@ -9,7 +9,7 @@ Ini adalah repository untuk **Tugas Rekayasa Perangkat Lunak 2**. Proyek ini dik
 
 ## 📂 Struktur Repository
 
-Branch ini memiliki 3 Branch dengan 1 Branch Utama
+Repo ini memiliki 3 Branch dengan 1 Branch Utama
 Berikut struktur Repository ini (agar tidak tersesat 🤗):
 
 1. Branch => **Program** (Kumpulan Project Netbeans)
